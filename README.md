@@ -1,5 +1,7 @@
 # calculator
 
+![](I1.png)
+
 This Python project is a simple calculator built with the Tkinter library, providing a GUI for basic arithmetic operations such as addition, subtraction, multiplication, and division. It dynamically evaluates mathematical expressions entered using on-screen buttons.
 
 Features
