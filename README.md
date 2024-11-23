@@ -3,11 +3,11 @@
 ![](I1.png)
 
 
-## Calculator Application
+## Calculator Application 📱
 Description
 A calculator application is a software tool designed to perform mathematical operations, ranging from basic arithmetic to complex calculations. It is an essential utility for students, professionals, and anyone needing quick and accurate computations.
 
-## Key Features
+## Key Features 🌟
 1. Basic Operations
 Addition, subtraction, multiplication, and division.
 2. Advanced Mathematical Functions
@@ -33,7 +33,7 @@ Replay or edit previous entries.
 9. Multi-Platform Compatibility
 Accessible on mobile, desktop, and web platforms.
 
- ## How It Works
+ ## How It Works 💫🎗️
 User Interface (UI):
 
 A clean and intuitive UI with buttons for numbers, operations, and modes.
